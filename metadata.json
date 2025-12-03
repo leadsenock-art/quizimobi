@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Imobiliário AI",
+  "description": "Uma ferramenta inteligente que analisa seu perfil financeiro e preferências para recomendar se você deve alugar ou comprar um imóvel, utilizando a Gemini API.",
+  "requestFramePermissions": []
+}
